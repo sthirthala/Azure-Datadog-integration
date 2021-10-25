@@ -1,4 +1,3 @@
-# Azure-Datadog-integration
 ---
 title: Create Datadog - Azure partner solutions
 description: This article describes how to use the Azure portal to create an instance of Datadog.
@@ -9,6 +8,8 @@ author: tfitzmac
 ms.author: tomfitz
 ms.custom: references_regions
 ---
+# Azure-Datadog-integration
+
 
 # QuickStart: Get started with Datadog by creating new instance
 
