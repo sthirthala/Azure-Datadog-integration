@@ -33,7 +33,7 @@ Use the Azure portal to find Datadog.
 
 1. If you've visited the **Marketplace** in a recent session, select the icon from the available options. Otherwise, search for _Marketplace_.
 
-    :::image type="content" source="media/create/marketplace.png" alt-text="Marketplace icon.":::
+    ![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/marketplace.png)
 
 1. In the Marketplace, search for **Datadog**.
 
@@ -47,11 +47,11 @@ The portal displays a selection asking whether you would like to create a Datado
 
 If you are creating a new Datadog organization, select **Create** under the **Create a new Datadog organization**
 
-:::image type="content" source="datadog-create-link-selection.png" alt-text="Create or link a Datadog organization" border="true":::
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/datadog-create-link-selection.png)
 
 The portal displays a form for creating the Datadog resource.
 
-:::image type="content" source="media/create/datadog-create-resource.png" alt-text="Create Datadog resource" border="true":::
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/datadog-create-resource.png)
 
 Provide the following values.
 
@@ -84,8 +84,7 @@ Tag rules for sending **logs** are:
 
 For example, the screenshot below shows a tag rule where only those virtual machines, virtual machine scale sets, and app service plans tagged as *Datadog = True* send metrics to Datadog.
 
-:::image type="content" source="media/create/config-metrics-logs.png" alt-text="Configure Logs and Metrics." border="true":::
-
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/config-metrics-logs.png)
 There are two types of logs that can be emitted from Azure to Datadog.
 
 1. **Subscription level logs** - Provide insight into the operations on your resources at the [control plane](../../azure-resource-manager/management/control-plane-and-data-plane.md). Updates on service health events are also included. Use the activity log to determine the what, who, and when for any write operations (PUT, POST, DELETE). There's a single activity log for each Azure subscription.
@@ -110,7 +109,7 @@ The Azure portal retrieves the appropriate Datadog application from Azure Active
 
 Select the Datadog app name.
 
-:::image type="content" source="media/create/sso.png" alt-text="Enable Single sign-on to Datadog." border="true":::
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/sso.png)
 
 Select **Next: Tags**.
 
@@ -118,7 +117,7 @@ Select **Next: Tags**.
 
 You can specify custom tags for the new Datadog resource. Provide name and value pairs for the tags to apply to the Datadog resource.
 
-:::image type="content" source="media/create/tags.png" alt-text="Add custom tags for the Datadog resource." border="true":::
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/tags.png)
 
 When you've finished adding tags, select **Next: Review+Create**.
 
@@ -126,13 +125,13 @@ When you've finished adding tags, select **Next: Review+Create**.
 
 Review your selections and the terms of use. After validation completes, select **Create**.
 
-:::image type="content" source="media/create/review-create.png" alt-text="Review and Create Datadog resource." border="true":::
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/review-create.png)
 
 Azure deploys the Datadog resource.
 
 When the process completes, select **Go to Resource** to see the Datadog resource.
 
-:::image type="content" source="media/create/go-to-resource.png" alt-text="Datadog resource deployment." border="true":::
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/go-to-resource.png)
 
 ## Next steps
 
