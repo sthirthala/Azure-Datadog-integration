@@ -292,13 +292,13 @@ Use the Azure portal to find Datadog.
 
 1. If you've visited the **Marketplace** in a recent session, select the icon from the available options. Otherwise, search for _Marketplace_.
 
-  ![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/marketplace.png)
+  ![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/marketplace.png)
 
 1. In the Marketplace, search for **Datadog**.
 
 1. In the plan overview screen, select **Set up + subscribe**.
 
-     ![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/datadog-app-2.png)
+     ![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/datadog-app-2.png)
 
 ## Link to existing Datadog organization
 
@@ -306,13 +306,13 @@ The portal displays a selection asking whether you would like to create a Datado
 
 If you are linking to an existing Datadog organization, select **Create** under the **Link Azure subscription to an existing Datadog organization**
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/datadog-create-link-selection.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/datadog-create-link-selection.png)
 
 You can link your new Datadog resource in Azure to an existing Datadog organization in **US3**.
 
 The portal displays a form for creating the Datadog resource.
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/link-to-existing.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/link-to-existing.png)
 
 Provide the following values.
 
@@ -327,7 +327,7 @@ Select **Link to Datadog organization**. The link opens a Datadog authentication
 
 By default, Azure links your current Datadog organization to your Datadog resource. If you would like to link to a different organization, select the appropriate organization in the authentication window, as shown below.
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/select-datadog-organization.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/select-datadog-organization.png)
 
 Select **Next: Metrics and logs** to configure metrics and logs.
 
@@ -351,7 +351,7 @@ Tag rules for sending **logs** are:
 
 For example, the screenshot below shows a tag rule where only those virtual machines, virtual machine scale sets, and app service plans tagged as *Datadog = True* send metrics to Datadog.
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/config-metrics-logs.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/config-metrics-logs.png)
 
 There are two types of logs that can be emitted from Azure to Datadog.
 
@@ -371,7 +371,7 @@ Once you have completed configuring metrics and logs, select **Next: Single sign
 
 If you're linking the Datadog resource to an existing Datadog organization, you can't set up single sign-on at this step. Instead, you set up single sign-on after creating the Datadog resource. For more information, see [Reconfigure single sign-on](manage.md#reconfigure-single-sign-on).
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/linking-sso.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/linking-sso.png)
 
 Select **Next: Tags**.
 
@@ -379,7 +379,7 @@ Select **Next: Tags**.
 
 You can specify custom tags for the new Datadog resource. Provide name and value pairs for the tags to apply to the Datadog resource.
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/tags.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/tags.png)
 
 When you've finished adding tags, select **Next: Review+Create**.
 
@@ -387,13 +387,14 @@ When you've finished adding tags, select **Next: Review+Create**.
 
 Review your selections and the terms of use. After validation completes, select **Create**.
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/review-create.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/review-create.png)
 
 Azure deploys the Datadog resource.
 
 When the process completes, select **Go to Resource** to see the Datadog resource.
 
-![](https://github.com/sthirthala/Azure-Datadog-integration/blob/mainmedia/link-to-existing-organization/go-to-resource.png)
+![](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/link-to-existing-organization/go-to-resource.png)
+
 
 ## Next steps
 
