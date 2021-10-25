@@ -47,7 +47,7 @@ The portal displays a selection asking whether you would like to create a Datado
 
 If you are creating a new Datadog organization, select **Create** under the **Create a new Datadog organization**
 
-:::image type="content" source="media/create/datadog-create-link-selection.png" alt-text="Create or link a Datadog organization" border="true":::
+:::image type="content" source="datadog-create-link-selection.png" alt-text="Create or link a Datadog organization" border="true":::
 
 The portal displays a form for creating the Datadog resource.
 
