@@ -39,7 +39,7 @@ Use the Azure portal to find Datadog.
 
 1. In the plan overview screen, select **Set up + subscribe**.
 
-   :::image type="content" source="media/create/datadog-app-2.png" alt-text="Datadog application in Azure Marketplace.":::
+ ![Datadog application in Azure Marketplace](https://github.com/sthirthala/Azure-Datadog-integration/blob/main/media/create/marketplace.png)
 
 ## Create a Datadog resource in Azure
 
