@@ -33,7 +33,7 @@ Use the Azure portal to find Datadog.
 
 1. If you've visited the **Marketplace** in a recent session, select the icon from the available options. Otherwise, search for _Marketplace_.
 
-    :::image type="content" source="marketplace.png" alt-text="Marketplace icon.":::
+    :::image type="content" source="media/create/marketplace.png" alt-text="Marketplace icon.":::
 
 1. In the Marketplace, search for **Datadog**.
 
