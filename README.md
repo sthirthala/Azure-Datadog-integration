@@ -1,23 +1,31 @@
----
-title: Create Datadog - Azure partner solutions
-description: This article describes how to use the Azure portal to create an instance of Datadog.
-ms.service: partner-services
-ms.topic: quickstart
-ms.date: 05/28/2021
-author: tfitzmac
-ms.author: tomfitz
-ms.custom: references_regions
----
+
 # Azure-Datadog-integration
 
+# What is Datadog?
+
+## Overview
+
+Datadog is a monitoring and analytics platform for large-scale applications. It encompasses infrastructure monitoring, application performance monitoring, log management, and user-experience monitoring. Datadog aggregates data across your entire stack with 400+ integrations for troubleshooting, alerting, and graphing. You can use it as a single source for troubleshooting, optimizing performance, and cross-team collaboration.
+
+Datadog's offering in the Azure Marketplace enables you to manage Datadog in the Azure console as an integrated service. This availability means you can implement Datadog as a monitoring solution for your cloud workloads through a streamlined workflow. The workflow covers everything from procurement to configuration. The onboarding experience simplifies how you start monitoring the health and performance of your applications, whether they're based entirely in Azure or spread across hybrid or multi-cloud environments.
+
+You provision the Datadog resources through a resource provider named `Microsoft.Datadog`. You can create, provision, and manage Datadog organization resources through the [Azure portal](https://portal.azure.com/). Datadog owns and runs the software as a service (SaaS) application including the organization and API keys.
+
+## Capabilities
+
+Integrating Datadog with Azure provides the following capabilities:
+
+- **Integrated onboarding** - Datadog is an integrated service on Azure. You can provision Datadog and manage the integration through the Azure portal.
+- **Unified billing** - Datadog costs are reported through Azure monthly bill.
+- **Single sign-on to Datadog** - You don't need a separate authentication for the Datadog portal.
+- **Log forwarder** - Enables automated forwarding of subscription activity and resource logs to Datadog.
+- **Metrics collection** - Automatically send all Azure resource metrics to Datadog.
+- **Datadog agent deployment** - Provides a unified management experience of Datadog agents. Install and uninstall Datadog agents as extensions on Virtual Machines and Azure App Services.
 
 # QuickStart: Get started with Datadog by creating new instance
 
 In this quickstart, you'll create a new instance of Datadog. You can either create a new Datadog organization or [link to an existing Datadog organization](link-to-existing-organization.md).
 
-## Prerequisites
-
-Before creating your first instance of Datadog in Azure, [configure your environment](prerequisites.md). These steps must be completed before continuing with the next steps in this quickstart.
 
 ## Find offer
 
