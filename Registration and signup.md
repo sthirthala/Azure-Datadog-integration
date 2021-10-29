@@ -37,11 +37,11 @@ Note: Please check the SPAM/JUNK folder in case you cannot find the email from n
 1. You need to click the **Launch Lab** button to access the lab environment. Wait for 10-15 seconds to get your pre-provisioned lab environment. 
 Once you Access Lab, the environment will load up in the web-browser, below is the screen when the lab environment starts. 
 
- ![lab_description](/media/environment_reg/lab_description.png)
+   ![lab_description](/media/environment_reg/lab_description.png)
 
 2. You are now ready to start using the lab. After the environment is loaded click on the Environment Details to load the azure credentials.
 
-  ![Environment details](/media/environment_reg/environment_details.png)
+   ![Environment details](/media/environment_reg/environment_details.png)
 
 > **Note**: After completing the lab, your lab environment will get auto deleted and you can proceed with the remaining Modules from the Cluster.
 
@@ -49,21 +49,21 @@ Once you Access Lab, the environment will load up in the web-browser, below is t
 
 1. After going to the **Environment Details** tab click on **Microsoft Azure ** as shown in the image to access azure portal.
 
-![Login to portal](/media/environment_reg/portal_login.png)
+   ![Login to portal](/media/environment_reg/portal_login.png)
 
 2. Once you are redirected to the **Azure portal** copy and paste the username and password from the environment details tab to login to azure. To copy the credentials, you can use the Copy button under actions as shown in the below image. After copying click on **Sign in**.
 
-![Sign_in](/media/environment_reg/sign_in.png)
+   ![Sign_in](/media/environment_reg/sign_in.png)
 
-![Sign_in](/media/environment_reg/password_signin.png)
+   ![Sign_in](/media/environment_reg/password_signin.png)
 
 3. If you see the pop-up **Stay Signed in?**, click **No**.
 
-![stay_signedin](/media/environment_reg/stay_signedin.png)
+   ![stay_signedin](/media/environment_reg/stay_signedin.png)
 
 4. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
 5. You are now successfully logged into azure. Click on **Maybe later** and continue with azure portal.
 
-![stay_signedin](/media/environment_reg/maybe_later.png)
+   ![stay_signedin](/media/environment_reg/maybe_later.png)
 
