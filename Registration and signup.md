@@ -17,7 +17,7 @@ Once you have the Sign up details handy, follow these steps to register. You can
 
    ![registration page](/media/environment_reg/submit_regpage.png)
 
-## Task 4 - How to Launch the Lab#
+## Task 4 - How to Launch the Lab
 
 Once you have successfully registered, you will be redirected to the Launch Lab page. Please click on the **LAUNCH LAB** button to access your Lab environment. 
 
