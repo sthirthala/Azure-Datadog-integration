@@ -1,4 +1,4 @@
-# Datadog Registration/Signup and Lab Access 
+# Datadog Registration/Sign-up and Lab Access 
 
 ## Task 1 - Access the Sign-up Details
 
