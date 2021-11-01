@@ -1,6 +1,6 @@
-# Datadog Registraion/Signup and Lab Access 
+# Datadog Registration/Signup and Lab Access 
 
-## Task 1 - Access the Sign up Details
+## Task 1 - Access the Sign-up Details
 
 To get access to the lab environment, you will need a signup link with a voucher or activation code. These details will be provided to you by your program contact or instructor. Use the provided lab activation details for registering for the workshop. In case you have not received the details, kindly contact your instructor.
 Alternately, your instructor may directly invite you to access the lab over email. In that case, you will not need a signup link and codes. Your instructor will give you the required signup information.
